@@ -34,7 +34,7 @@ Expense.prototype = {
 
 
 
-
+// írtam egy kommentet a 37. sorba
 
 /////////////////////////////////////////////////////////////////////
 // Function constructor for an income. We don't need methods here because we can borrow them from the Expenses, since they are similar in terms of properties
